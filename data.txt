@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F457-89EF
+
+ Directory of C:\Users\vshadmin\Desktop\git
+
+01-12-2018  13:02    <DIR>          .
+01-12-2018  13:02    <DIR>          ..
+01-12-2018  13:02                 0 data.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  199,255,855,104 bytes free
